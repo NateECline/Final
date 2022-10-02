@@ -1,0 +1,128 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+}
+
+
+.deletebutton{
+  background-color: purple;
+  border: white solid;
+  border-radius: 5px;
+  position: relative;
+  top: 45px;
+  right: 135px;
+  display: inline
+  
+}
+
+.deleteGame{
+  position: relative;
+  left: 1000px;
+  bottom: 40px;
+  display:inline
+}
+
+.addbutton{
+  background-color: purple;
+  border: white solid;
+  border-radius: 5px;
+  position: relative;
+  top: 45px;
+  right: 120px;
+  display: inline
+  
+}
+
+.addGame{
+  position: relative;
+  left: 500px;
+  top: 30px;
+  display: inline
+  
+}
+
+.nasa{
+  position: relative;
+  left: 400px;
+  top: 80px;
+  display: inline
+}
+
+.astronomy{
+  position: relative;
+  left: 240px;
+  display: inline
+}
+
+.games-list{
+  display: inline;
+  position: relative;
+  left: 785px;
+  
+}
+
+.headercolor{
+  color: purple;
+  border: white solid;
+  border-radius: 5px;
+  display: inline
+}
+
+.header2color{
+  color: purple;
+  border: white solid;
+  border-radius: 5px;
+  display: inline
+}
+
+.random{
+  position: relative;
+  top:10px;
+  left: 30px;
+  display: inline
+}
+
+.random2{
+  position: relative;
+  top:10px;
+  left: 20px;
+  display: inline
+}
+
+.gameslistmain{
+  display: inline
+}
+
+.newhousedescription{
+  display:inline
+}
+
+.fix{
+  display: inline;
+  
+}
+
+.fix1{
+  display: inline;
+  position: absolute;
+  top: 50%;
+  left: 47%;
+  transform: translate(-50%, -50%);
+}
+
+.hometext{
+  position: relative;
+  width: 1200px;
+  left: 350px;
+  top: 100px
+}
+
+.home{
+  position: relative;
+  left: 800px;
+  top: 100px
+}
