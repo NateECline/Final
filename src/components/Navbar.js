@@ -14,7 +14,7 @@ import { default as Astronomy } from './pages/Astronomy'
 
 
 
-
+// This code links and routes the pages to App.js so it can then be displayed through index.js
 
 export default function MyNav() {
   
